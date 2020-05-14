@@ -1,9 +1,21 @@
 body {
-  background: lightslategrey;
+  background:#FFEEA9;
 }
 
 article {
   background: ivory;
+}
+
+footer{
+  font-size: small;
+}
+
+main{
+  background: #E6E8E6;
+}
+
+p{
+  font-size: 18px;  
 }
 
 h1 {
