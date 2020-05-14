@@ -1,20 +1,35 @@
-        body{background: lightslategrey;}
+body {
+  background: lightslategrey;
+}
 
-        article{background: ivory;}
-        
-        h1{color: darkblue;}
-        
-            
-        h2{color:#1460AA;}
+article {
+  background: ivory;
+}
 
+h1 {
+  color: darkblue;
+}
 
+h2 {
+  color: #1460aa;
+}
 
-      a {
-        color: #07790d;
+a {
+  color: #07790d;
+}
 
-      }
+nav a {
+  color: rgb(20, 87, 17);
+}
 
-      nav a {
-        color: rgb(20, 87, 17);
+.navigation {
+  background: rgb(79, 189, 52);
+  padding: 16px;
+  border-radius: 8px;
+}
 
-      }
+.navigation__link{
+  color: #fff;
+  display: inline-block;
+  margin-right: 20px;
+}
