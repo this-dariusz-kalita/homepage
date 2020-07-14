@@ -1,9 +1,11 @@
 body {
   background:#FFEEA9;
+  text-align: center;
 }
 
 article {
   background: ivory;
+  
 }
 
 footer{
@@ -14,6 +16,10 @@ main{
   background: #E6E8E6;
 }
 
+img{
+  border-radius: 10%;
+  margin: 30px;
+}
 p{
   font-size: 18px;  
 }
